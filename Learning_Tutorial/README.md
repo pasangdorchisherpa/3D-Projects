@@ -16,8 +16,6 @@ Each part was modeled from scratch to practice:
 - Assemblies and component alignment
 - Clean, manufacturable geometry
 
---
-
 ## 🎥 Videos
 Short MP4 videos are included to showcase:
 - Individual part rotations
@@ -36,3 +34,12 @@ This project was created as a hands-on learning experience to improve CAD skills
 ---
 
 Feel free to explore, download, or use these models for learning purposes.
+
+
+https://github.com/user-attachments/assets/d8b85fd0-befe-45a4-af3a-0c8c036a5989
+
+https://github.com/user-attachments/assets/dff761b9-7aae-439f-aef8-f93428eb3e1d
+
+https://github.com/user-attachments/assets/74eb797d-f60b-485b-a681-b2c48c159bfe
+
+https://github.com/user-attachments/assets/40f095ce-1ed6-4be1-9a24-fc9a3ed23875
