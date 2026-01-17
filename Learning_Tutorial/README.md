@@ -16,7 +16,7 @@ Each part was modeled from scratch to practice:
 - Assemblies and component alignment
 - Clean, manufacturable geometry
 
----
+--
 
 ## 🎥 Videos
 Short MP4 videos are included to showcase:
