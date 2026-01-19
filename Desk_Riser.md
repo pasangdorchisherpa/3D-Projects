@@ -30,7 +30,7 @@ Designed to comfortably support:
 - Static vertical loads
 
 ## Files
-- `DeskRiser.stl` 
+- `DeskRiserMain.stl` 
 
 ## License
 This design is provided for **personal use**.  
