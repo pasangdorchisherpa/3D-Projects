@@ -4,7 +4,7 @@ This repository contains a small set of mechanical parts and an assembly created
 
 ---
 
-## 📦 Parts Included
+## Parts Included
 - Hex socket bolt
 - Hexagonal base plate
 - L-shaped bracket
@@ -16,19 +16,19 @@ Each part was modeled from scratch to practice:
 - Assemblies and component alignment
 - Clean, manufacturable geometry
 
-## 🎥 Videos
+## Videos
 Short MP4 videos are included to showcase:
 - Individual part rotations
 - Final assembly view
 
 (See the videos below or download them from the repository.)
 
-## 🛠 Tools Used
+## Tools Used
 - Autodesk Fusion
 - Parametric modeling workflow
 - Basic mechanical design principles
 
-## 📚 Purpose
+## Purpose
 This project was created as a hands-on learning experience to improve CAD skills.
 
 ---
